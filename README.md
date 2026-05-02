@@ -1,4 +1,4 @@
-Data Visualization
+# Data Visualization
 Data Visualization using Matplotlib and Seaborn
 
 This project is a Python-based Jupyter Notebook implementation focused on data visualization using Matplotlib and Seaborn, demonstrating various plotting techniques to analyze data patterns, distributions, and relationships through graphical representations.
